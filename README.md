@@ -2,7 +2,7 @@
 
 ---
 
-# 🌴 **Things to Do in Los Angeles 
+# 🌴 Things to Do in Los Angeles 🌴
 
 ## 🥾 **Hiking**
 - `https://www.alltrails.com/us/california/los-angeles` [(alltrails.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fwww.alltrails.com%2Fus%2Fcalifornia%2Flos-angeles")  
