@@ -1,4 +1,4 @@
-Absolutely, Candace — here’s a clean, **links‑only** section you can drop straight into your GitHub Page. No descriptions, no fluff — just the essentials for **things to do in Los Angeles**, focused on **hiking, sports, and theater**.
+
 
 ---
 
